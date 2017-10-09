@@ -8,4 +8,4 @@ Additionally, as CRM does not provide the member count for dynamic Marketing Lis
 You can also copy lists and merge data from one to another static list.
 
 ##Setup
-Simply download the [latest release](https://github.com/amoedo/MarketingListManager/releases/latest) and copy the DLL library into your XrmToolbox folder.
+Simply download the plugin through the XRM toolbox Plugin Store.
